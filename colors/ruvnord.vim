@@ -7,7 +7,7 @@ if version > 580
   endif
 endif
 
-let g:colors_name = "ruvnord2"
+let g:colors_name = "ruvnord"
 let s:nord_vim_version="0.13.0"
 set background=dark
 
